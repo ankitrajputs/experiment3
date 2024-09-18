@@ -1,0 +1,15 @@
+{
+  "name": "middle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "ankit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
